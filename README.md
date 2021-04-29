@@ -1,0 +1,2 @@
+# FIFA-2019-Kaggle-
+Data Exploration and analytics - FIFA 2019: Conducting analysis for Kaggle for dataset FIFA19. The following tasks are addressed during assignment: Exploratory Data Analysis, Clustering Analysis, and identify the position profiles of each cluster and Classification Analysis, and evaluate the performance of different algorithms using cross validation, using numpy, pandas, matplotlib, pyspark, Kmeans, RandomForestClassifier, Logistic Regression, DecisionTreeClassifier and other python packages.
